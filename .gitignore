@@ -1,0 +1,13 @@
+# Compiled packages belong in Release assets, not repository history.
+*.zip
+*.exe
+*.dll
+*.pfx
+*.p12
+*.pem
+*.key
+SigningKey.xml
+.env
+.env.*
+Thumbs.db
+.DS_Store
